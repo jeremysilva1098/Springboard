@@ -1,0 +1,4 @@
+,Model,Explained Variance,Mean Absolute Error,Features Dropped
+0,Model 1,0.9340692902107184,5.0870391419116,none
+1,Model 2,0.9254883540020524,5.4667486595639305,state
+2,Model 3,0.9310919745297067,5.266469109834687,"state, summit_elev, base_elev"
